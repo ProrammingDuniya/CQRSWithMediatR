@@ -1,6 +1,6 @@
 ﻿using Core;
 
-namespace Infrastructure.Repository
+namespace Application.Interface
 {
     /// <summary>
     /// IEmployeeQueryRepository

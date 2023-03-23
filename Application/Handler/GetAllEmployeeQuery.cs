@@ -1,6 +1,6 @@
-﻿using Application.Model;
+﻿using Application.Interface;
+using Application.Model;
 using AutoMapper;
-using Infrastructure.Repository;
 using MediatR;
 
 namespace Application.Handler

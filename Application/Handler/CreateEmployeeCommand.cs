@@ -1,13 +1,7 @@
-﻿using Application.Model;
+﻿using Application.Interface;
+using Application.Model;
 using AutoMapper;
-using Core;
-using Infrastructure.Repository;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Handler
 {

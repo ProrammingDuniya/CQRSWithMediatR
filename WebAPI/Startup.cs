@@ -2,9 +2,9 @@
 using Application;
 using Application.Exceptions;
 using Application.Handler;
+using Application.Interface;
 using Application.Mapper;
 using Application.Model;
-using Application.Validator;
 using AutoMapper;
 using FluentValidation;
 using Infrastructure.Repository;
